@@ -1,2 +1,2 @@
-
+```
 const store = createStore(appReducer);
