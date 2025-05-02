@@ -4,6 +4,7 @@ test rowWithMaxValue
     expect: {val: 10}
 
 ```
+```
 test reducer
     setData(data) => обновляет state.data
     clearData() => очищает данные и selectedRow
